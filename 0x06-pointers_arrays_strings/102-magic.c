@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
-
 int main(void)
 
 {
@@ -11,7 +7,6 @@ int main(void)
   int a[5];
 
   int *p;
-
 
   a[2] = 1024;
 
@@ -42,5 +37,3 @@ int main(void)
   return (0);
 
 }
-
->>>>>>> b9ee776a3e3b564d693ff7ebf37b7ae3ba12f357
